@@ -32,3 +32,5 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+
+Thank you for visiting my repository.
